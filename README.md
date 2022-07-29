@@ -25,4 +25,4 @@ Collected Data (Webscraping) Description:
 - Insp_score		      :Inspection rating out of 10
 - top_speed		        :Maximum speed limit of the car in km per hours
 - City_url	        	:Url of the page of cars from a particular city/location
-- Car_price		        ;Price of the car
+- Car_price		        :Price of the car
